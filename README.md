@@ -13,13 +13,13 @@
 
 ## Capturas de Pantalla 🖼
 ### **Pantalla Principal**
-*(Aquí puedes agregar una imagen de la interfaz principal de la aplicación)*
+![Interfaz](assets/interfaz.png)
 
 ### **Ingreso de Nombres**
-*(Aquí puedes mostrar cómo se ven los nombres ingresados en la lista)*
+![Lista de Amigos](assets/Lista%20de%20amigos.png)
 
 ### **Sorteo Realizado**
-*(Aquí una imagen mostrando el resultado del sorteo)*
+![Realizando el Sorteo](assets/Sorteo.png)
 
 ## Uso 🚀
 1. Escribe el nombre de un participante en el campo de entrada.
