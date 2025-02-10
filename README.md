@@ -35,7 +35,7 @@
 ## Instalación y Ejecución 🖥
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/vladizen/amigo-secreto.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 3. ¡Disfruta del sorteo de Amigo Secreto! 🎉
