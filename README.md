@@ -13,7 +13,7 @@
 
 ## Capturas de Pantalla 🖼
 ### **Pantalla Principal**
-![Interfaz](assets/interfaz.png)
+![Interfaz](assets/Interfaz.png)
 
 ### **Ingreso de Nombres**
 ![Lista de Amigos](assets/Lista%20de%20amigos.png)
